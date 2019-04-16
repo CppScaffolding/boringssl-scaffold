@@ -1,0 +1,4 @@
+## .gitignore file for boringssl-scaffold
+
+## ignore folder fetched through gclient
+boringssl
